@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "minecraft:short_grass"
+          },
+          "weight": 100          
+        },
+        {
+          "data": {
+            "Name": "minecraft:tall_grass",
+            "Properties": {
+              "half": "lower"
+            }
+          },
+          "weight": 20
+        },
+        {
+          "data": {
+            "Name": "ars_elemental:spore_blossom_up"
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "farmersdelight:wild_potatoes"
+          },
+          "weight": 3
+        },
+        {
+          "data": {
+            "Name": "farmersdelight:brown_mushroom_colony"
+          },
+          "weight": 3
+        },
+        {
+          "data": {
+            "Name": "farmersdelight:red_mushroom_colony"
+          },
+          "weight": 3
+        },
+        {
+          "data": {
+            "Name": "ars_elemental:sparkflower"
+          },
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

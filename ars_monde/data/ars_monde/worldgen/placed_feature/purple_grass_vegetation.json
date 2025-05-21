@@ -1,0 +1,12 @@
+{
+  "feature": "ars_monde:purple_vegetation_patch",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 3
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

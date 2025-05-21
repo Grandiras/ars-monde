@@ -1,0 +1,48 @@
+{
+  "type": "ars_monde:ars_monde",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "ars_monde:ars_monde",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "ars_monde:dense_mystical_forest",
+          "parameters": {
+            "temperature": -0.2,
+            "humidity": 0.5,
+            "continentalness": -0.2,
+            "erosion": 0,
+            "weirdness": 0.1,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "ars_monde:mystical_forest",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0.2,
+            "continentalness": 0.2,
+            "erosion": 0,
+            "weirdness": 0.1,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "ars_monde:source_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.2,
+            "continentalness": 0.2,
+            "erosion": 0,
+            "weirdness": 0.1,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}
