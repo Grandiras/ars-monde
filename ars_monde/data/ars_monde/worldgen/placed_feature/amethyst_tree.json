@@ -6,14 +6,14 @@
       "count": 1
     },
     {
-      "type": "minecraft:environment_scan",
-      "direction_of_search": "up",
-      "max_steps": 12,
-      "target_condition": {
-        "type": "minecraft:not",
-        "predicate": {
-          "type": "minecraft:matching_fluids",
-          "fluids": "#minecraft:water"
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "ars_monde_lib:amethyst_sapling",
+          "Properties": {
+            "stage": "0"
+          }
         }
       }
     },
