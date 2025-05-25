@@ -31,7 +31,7 @@
     [],
     [],
     [
-      "ars_monde:sparse_trees",
+      "ars_monde:amethyst_tree",
       "ars_monde:placed_lights"
     ],
     [],
@@ -49,7 +49,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:cave_vines",
+      "ars_monde:amethyst_vines",
       "ars_monde:purple_grass_vegetation",
       "ars_monde:sourceberry_pile",
       "ars_monde:sourceberry_bush",
