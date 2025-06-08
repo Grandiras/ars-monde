@@ -6,7 +6,7 @@
         "targets": [
             {
                 "state": {
-                    "Name": "kubejs:gilded_amethyst_smooth_basalt"
+                    "Name": "ars_monde_lib:gilded_amethyst_smooth_basalt"
                 },
                 "target": {
                     "predicate_type": "minecraft:block_match",
@@ -15,7 +15,7 @@
             },
             {
                 "state": {
-                    "Name": "kubejs:gilded_amethyst_blackstone"
+                    "Name": "ars_monde_lib:gilded_amethyst_blackstone"
                 },
                 "target": {
                     "predicate_type": "minecraft:block_match",
