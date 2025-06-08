@@ -19,7 +19,7 @@ But be careful. This Datapack is made for Modpack Developer. Modpack Developers 
 
 ## Installation
 
-1. Download the latest Ars Monde release from the Files tab.
+1. Download the latest release.
 
 2. Drop the .zip into <world>/datapacks/ (do not unzip).
 
@@ -27,4 +27,4 @@ But be careful. This Datapack is made for Modpack Developer. Modpack Developers 
 
 ## Bugs
 
-You can report bugs on the datapack's repository linked to the project.
+You can report bugs here by opening an issue.
