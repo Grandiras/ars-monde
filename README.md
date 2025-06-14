@@ -16,7 +16,7 @@ But be careful. This Datapack is made for Modpack Developer. Modpack Developers 
 
 ## Installation
 1. Download the latest release.
-2. Drop the .zip into \<world\>/datapacks/.
+2. Drop the .zip into \<world\>/datapacks/
 3. Run /reload or restart the world.
 
 ## Bugs
